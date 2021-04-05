@@ -11,6 +11,7 @@
 
 
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
+
 ● Sample Solution : https://bit.ly/2HxiGGJ
 
 ● Task submission:
